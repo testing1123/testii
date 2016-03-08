@@ -11,6 +11,7 @@ namespace ConsoleApplication1sss
         {
             Console.WriteLine("yads");
             Console.WriteLine("sdf");
+            Console.WriteLine("sdfsdf");
         }
     }
 }
