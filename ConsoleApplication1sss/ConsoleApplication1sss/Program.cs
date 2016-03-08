@@ -9,6 +9,7 @@ namespace ConsoleApplication1sss
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("yads");
         }
     }
 }
